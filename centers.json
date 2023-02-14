@@ -1,0 +1,338 @@
+[
+  {
+    "region-name": {
+      "ar": "جهة طنجة تطوان الحسيمة",
+      "en": "Tangier-Tetouan-Al Hoceïma"
+    },
+    "centers": [
+      {
+        "id": 1,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم طنجة",
+          "en": "Regional Blood Transfusion Center - Tangier"
+        },
+        "address": {
+          "ar": "شارع المسيرة الخضراء - طنجة",
+          "en": "Massira Al Khadra Avenue - Tangier"
+        },
+        "location": [35.77188758826581, -5.81317179076881]
+      },
+      {
+        "id": 2,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم تطوان",
+          "en": "Regional Blood Transfusion Center - Tetouan"
+        },
+        "address": {
+          "ar": "شارع عبد الخالق الطريس، المستشفى الإقليمي المدني سانية الرمل - تطوان",
+          "en": "Abdelkhalek Torres Avenue, Provincial Hospital Saniat R'mel - Tetouan"
+        },
+        "location": [35.57274509373337, -5.35565236482816]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة الشرق",
+      "en": "Oriental Region"
+    },
+    "centers": [
+      {
+        "id": 3,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم وجدة",
+          "en": "Regional Blood Transfusion Center - Oujda"
+        },
+        "address": {
+          "ar": "شارع ادريس الأكبر، مستشفى الفارابي - وجدة",
+          "en": "Idriss Al Akbar Avenue, Al Farabi Hospital - Oujda"
+        },
+        "location": [34.67547527858747, -1.91363790019321]
+      },
+      {
+        "id": 4,
+        "center-name": {
+          "ar": "مركز تحاقن الدم الناظور",
+          "en": "Blood Transfusion Center - Nador"
+        },
+        "address": {
+          "ar": "حي المدني، شارع مستشفى الحسني - الناظور",
+          "en": "Al Madani Neighbourhood, Al Hassani Hospital Street - Nador"
+        },
+        "location": [35.17598585123161, -2.93516445104042]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة فاس مكناس",
+      "en": "Fez-Meknes"
+    },
+    "centers": [
+      {
+        "id": 5,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم فاس",
+          "en": "Regional Blood Transfusion Center - Fez"
+        },
+        "address": {
+          "ar": "طريق سيدي حرازم، قرب كلية الطب - فاس",
+          "en": "Sidi Harazem Road, near the Faculty of Medicine and Pharmacy - Fez"
+        },
+        "location": [34.0071576644977, -4.9612874263146]
+      },
+      {
+        "id": 6,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم مكناس",
+          "en": "Regional Blood Transfusion Center - Meknes"
+        },
+        "address": {
+          "ar": "المستشفى الإقليمي محمد الخامس، شارع محمد الزرقطوني، زنقة سلطان - مكناس",
+          "en": "Mohamed V Hospital, Mohamed Zerktouni Avenue, Sultan Street - Meknes"
+        },
+        "location": [33.90299489870075, -5.54017278484217]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة الرباط سلا القنيطرة",
+      "en": "Rabat-Salé-Kenitra"
+    },
+    "centers": [
+      {
+        "id": 7,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم الرباط",
+          "en": "Regional Blood Transfusion Center - Rabat"
+        },
+        "address": {
+          "ar": "شارع علال الفاسي، زنقة لمفضل الشرقاوي، مدينة العرفان - الرباط",
+          "en": "Allal El Fassi Road, Al Mfaddal Cherkaoui Street, Madinat Al Irfane - Rabat"
+        },
+        "location": [33.99037236949794, -6.85965127347254]
+      },
+      {
+        "id": 8,
+        "center-name": {
+          "ar": "وحدة التبرع بالدم ساحة باب الحد",
+          "en": "Blood Donation Unit, Bab el Had Square"
+        },
+        "address": {
+          "ar": "شارع الحسن الثاني، ساحة باب الحد، قرب شارع المامونية - الرباط",
+          "en": "Hassan II Avenue, Bab el Had Square, near Al Mamounia street - Rabat"
+        },
+        "location": [34.02114259565109, -6.83998976058954]
+      },
+      {
+        "id": 9,
+        "center-name": {
+          "ar": "مركز تحاقن الدم القنيطرة",
+          "en": "Blood Transfusion Center - Kenitra"
+        },
+        "address": {
+          "ar": "المستشفى الإقليمي الإدريسي، شارع الجامعة، وسط المدينة - القنيطرة",
+          "en": "El Idrissi Hospital, University Avenue, Town Center - Kenitra"
+        },
+        "location": [34.24834559222661, -6.57872649502424]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة بني ملال خنيفرة",
+      "en": "Beni Mellal-Khenifra"
+    },
+    "centers": [
+      {
+        "id": 10,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم بني ملال",
+          "en": "Regional Blood Transfusion Center - Beni Mellal"
+        },
+        "address": {
+          "ar": "شارع الحسن الثاني - بني ملال",
+          "en": "Hassan II Avenue - Beni Mellal"
+        },
+        "location": [32.3282512232974, -6.35279678828329]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة الدار البيضاء سطات",
+      "en": "Casablanca-Settat"
+    },
+    "centers": [
+      {
+        "id": 11,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم الدارالبيضاء",
+          "en": "Regional Blood Transfusion Center - Casablanca"
+        },
+        "address": {
+          "ar": "شارع محمد الزرقطوني - الدار البيضاء",
+          "en": "Mohamed Zerktouni Boulevard - Casablanca"
+        },
+        "location": [33.59518366098149, -7.6185348061592]
+      },
+      {
+        "id": 12,
+        "center-name": {
+          "ar": "وحدة التبرع بالدم ساحة الأمم المتحدة",
+          "en": "Blood Donation Unit, United Nations Square"
+        },
+        "address": {
+          "ar": "شارع الراشدي، ساحة الأمم المتحدة - الدار البيضاء",
+          "en": "Rachidi Boulevard, United Nations Square - Casablanca"
+        },
+        "location": [33.59503197586187, -7.61874950324158]
+      },
+      {
+        "id": 13,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم الجديدة",
+          "en": "Regional Blood Transfusion Center - El Jadida"
+        },
+        "address": {
+          "ar": "طريق دوار لشهب - الجديدة",
+          "en": "Douar Lachab Road - El Jadida"
+        },
+        "location": [33.23416691990691, -8.47886465574415]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة مراكش اسفي",
+      "en": "Marrakech-Safi"
+    },
+    "centers": [
+      {
+        "id": 14,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم مراكش",
+          "en": "Regional Blood Transfusion Center - Marrakech"
+        },
+        "address": {
+          "ar": "شارع المستشفيات - مراكش",
+          "en": "Al Moustachfayate Boulevard, Marrakech"
+        },
+        "location": [31.66216345269531, -7.99515693315267]
+      },
+      {
+        "id": 15,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم اسفي",
+          "en": "Regional Blood Transfusion Center - Safi"
+        },
+        "address": {
+          "ar": "مستشفى محمد الخامس، شارع مولاي عبد الله - اسفي",
+          "en": "Mohammed V Hospital, Moulay Abdellah Avenue - Safi"
+        },
+        "location": [32.2880855724791, -9.23664501441221]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة درعة تافيلالت",
+      "en": "Drâa-Tafilalet"
+    },
+    "centers": [
+      {
+        "id": 16,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم ورزازات",
+          "en": "Regional Blood Transfusion Center - Ouarzazate"
+        },
+        "address": {
+          "ar": "شارع ابن سينا - ورزازات",
+          "en": "Ibn Sina Avenue - Ouarzazate"
+        },
+        "location": [30.92512817749877, -6.91667533067538]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة سوس ماسة",
+      "en": "Souss-Massa"
+    },
+    "centers": [
+      {
+        "id": 17,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم أكادير",
+          "en": "Regional Blood Transfusion Center - Agadir"
+        },
+        "address": {
+          "ar": "شارع مولاي اسماعيل - اكادير",
+          "en": "Moulay Ismail Avenue - Agadir"
+        },
+        "location": [30.42885378395698, -9.5827383707272]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة كلميم واد نون",
+      "en": "Guelmim-Oued Noun"
+    },
+    "centers": [
+      {
+        "id": 18,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم كلميم",
+          "en": "Regional Blood Transfusion Center - Guelmim"
+        },
+        "address": {
+          "ar": "المستشفى الجهوي كلميم، الطريق الوطنية رقم 12 - كلميم",
+          "en": "Regional Hospital, N12 Road - Guelmim"
+        },
+        "location": [28.9737799911057, -10.0480265302054]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة العيون الساقية الحمراء",
+      "en": "Laâyoune-Sakia El Hamra"
+    },
+    "centers": [
+      {
+        "id": 19,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم العيون",
+          "en": "Regional Blood Transfusion Center - Laayoune"
+        },
+        "address": {
+          "ar": "مستشفى مولاي الحسن بن المهدي - العيون",
+          "en": "Moulay Hassane Ben Mehdi Hospital - Laayoune"
+        },
+        "location": [27.156722729846962, -13.189253913448841]
+      }
+    ]
+  },
+  {
+    "region-name": {
+      "ar": "جهة الداخلة وادي الذهب",
+      "en": "Dakhla-Oued Ed-Dahab"
+    },
+    "centers": [
+      {
+        "id": 20,
+        "center-name": {
+          "ar": "المركز الجهوي لتحاقن الدم الداخلة",
+          "en": "Regional Blood Transfusion Center - Dakhla"
+        },
+        "address": {
+          "ar": "شارع الولاء، مستشفى الحسن الثاني - الداخلة",
+          "en": "Al Ouala Boulevard, Hassan II Hospital - Dakhla"
+        },
+        "location": [23.71409437608801, -15.92317896385248]
+      }
+    ]
+  }
+]
