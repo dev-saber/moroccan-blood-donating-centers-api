@@ -1,5 +1,5 @@
 import os
-from flask import Flask, jsonify
+from flask import Flask
 from dotenv import load_dotenv
 from pymongo import MongoClient
 
@@ -12,14 +12,8 @@ centers = client["data"]["centers"]
 
 @app.route("/")
 def home():
-    data = centers.find()
-    # return list(data)
-    # Convert ObjectId to string for serialization
-    serialized_data = []
-    for document in data:
-        document["_id"] = str(document["_id"])
-        serialized_data.append(document)
-    return jsonify(serialized_data)
+    response = centers.find({}, {"_id": 0})
+    return list(response)
 
 
 if __name__ == "__main__":
