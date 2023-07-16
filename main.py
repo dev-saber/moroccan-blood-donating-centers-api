@@ -10,10 +10,16 @@ client = MongoClient(os.getenv("MONGODB_URI"))
 centers = client["data"]["centers"]
 
 
-@app.route("/")
-def home():
+@app.route("/centers")
+def index():
     response = centers.find({}, {"_id": 0})
     return list(response)
+
+
+@app.route("/centers/<int:id>")
+def show(id):
+    response = centers.find_one({"id": id}, {"_id": 0})
+    return response
 
 
 if __name__ == "__main__":
