@@ -12,7 +12,7 @@ centers = client["data"]["centers"]
 
 @app.route("/centers")
 def index():
-    response = centers.find({}, {"_id": 0})
+    response = centers.find({}, {"_id": 0}).sort("id", 1)
     return list(response)
 
 
