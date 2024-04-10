@@ -19,13 +19,13 @@ To consume the Moroccan Blood Donation API and retrieve the data, follow the ins
 - Make a **`GET`** request to the following URI to retrieve the full data:
     
     ```jsx
-    https://moroccan-blood-donation.sifeddineeddr.repl.co/centers
+    https://sifeddine.pythonanywhere.com/centers
     ```
     
 - To retrieve data for a specific blood donating centers of a region using its ID, append the ID to the URI mentioned above using a **`GET`** request to the modified URI. For example, to retrieve data for donationg centers of the region with ID 1, the URI would be:
     
     ```jsx
-    https://moroccan-blood-donation.sifeddineeddr.repl.co/centers/1
+    https://sifeddine.pythonanywhere.com/centers/1
     ```
     
     Replace **`1`** with the desired region ID as following:
